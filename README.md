@@ -18,5 +18,5 @@ Parameter   | [Launch]
 Typeahead API URL |	http://localhost:9145/typeahead
 Resolver API URL  |	http://localhost:9145/resolver
 ```
-7. Restart Chrome and follow the directions here: 
- http://sdk.mixmax.com/docs/chrome-insecure-content-https-request-blocked-when-developing-locally 
+
+Restart Chrome and follow the directions here: http://sdk.mixmax.com/docs/chrome-insecure-content-https-request-blocked-when-developing-locally 
